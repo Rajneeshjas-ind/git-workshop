@@ -1,4 +1,6 @@
-# Study tips
-print('any thing goes well')
-print('fygyhdfhfd')
-import pandas as pd
+# student_tips.py
+
+def study_tip():
+    print("Practice Git every day!")
+
+study_tip()
